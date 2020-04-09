@@ -151,8 +151,8 @@ pub fn get_little_endian_string_16(h: &[u64; 16]) -> String {
 
 #[cfg(test)]
 mod tests {
-    #[test]
-    fn it_works() {
-        assert_eq!(2 + 2, 4);
-    }
+    // #[test]
+    // fn it_works() {
+    //     assert_eq!(2 + 2, 4);
+    // }
 }
